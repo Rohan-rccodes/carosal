@@ -1,8 +1,8 @@
-## IMAGE SLIDER CAROSAL 
+# IMAGE SLIDER CAROSAL 
 
-## Preview : 
+# Preview : 
 
 
 
-## View Live Website: 
+# View Live Website: 
 https://rohan-rccodes.github.io/carosal/
